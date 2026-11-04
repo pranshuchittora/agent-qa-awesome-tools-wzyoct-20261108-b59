@@ -1,5 +1,9 @@
 # 更新日志
 
+## 2026-11-04：替换提示词清单
+
+- 清空原有提示词，新增 Taste Skill 与 Impeccable Web 界面优化提示词及重构 Codex Agent 全局规则提示词；同步更新 README 配套链接。
+
 ## 2026-11-04：收录 Taste Skill
 
 - 在“AI 工具”分类收录 Taste Skill，新增用于重设计现有 Web 界面的配套提示词。

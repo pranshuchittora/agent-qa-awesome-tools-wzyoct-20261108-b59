@@ -151,19 +151,19 @@
   - GitHub：https://github.com/KaguraNanaga/document-format-skills
 - **UI/UX Pro Max** — 面向 Claude Code、Codex 等 AI 编码工具的设计 Skill，提供设计系统、配色、字体、UX 和多种技术栈的建议；采用 MIT 许可证
   - GitHub：https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
-  - 配套提示词：[UI 和 UX 改造提示词](提示词清单.md#ui-和-ux-改造提示词)
+  - 配套提示词：[Taste Skill 与 Impeccable Web 界面优化提示词](提示词清单.md#使用-taste-skill-与-impeccable-优化-web-界面)
 - **Taste Skill** — 面向 Codex、Claude Code 等 AI 编码工具的前端设计 Skill，提供网页和应用界面的设计方向，并通过真实浏览器检查和截图迭代改进效果；采用 MIT 许可证
   - GitHub：https://github.com/Leonxlnx/taste-skill
-  - 配套提示词：[使用 Taste Skill 重设计现有 Web 界面](提示词清单.md#使用-taste-skill-重设计现有-web-界面)
+  - 配套提示词：[Taste Skill 与 Impeccable Web 界面优化提示词](提示词清单.md#使用-taste-skill-与-impeccable-优化-web-界面)
 - **Frontend Design** — Anthropic 的前端设计 Skill，指导界面的视觉方向、排版和布局，适用于 Claude Code、Claude.ai 和 Claude API；采用 Apache-2.0 许可证
   - GitHub：https://github.com/anthropics/skills/tree/main/skills/frontend-design
-  - 配套提示词：[UI 和 UX 改造提示词](提示词清单.md#ui-和-ux-改造提示词)
+  - 配套提示词：[Taste Skill 与 Impeccable Web 界面优化提示词](提示词清单.md#使用-taste-skill-与-impeccable-优化-web-界面)
 - **Web Design Guidelines** — Vercel 的界面审查 Skill，按 Web 界面规范检查可访问性、性能和用户体验，适用于支持 Agent Skills 的 AI 编码工具；仓库 README 声明 MIT 许可证
   - GitHub：https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines
-  - 配套提示词：[UI 和 UX 改造提示词](提示词清单.md#ui-和-ux-改造提示词)
+  - 配套提示词：[Taste Skill 与 Impeccable Web 界面优化提示词](提示词清单.md#使用-taste-skill-与-impeccable-优化-web-界面)
 - **AGENT-v2（Codex Agent 规则）** — 精简有效的 Codex Agent 协作规则示例，涵盖沟通、根因修复、代码质量、结构性问题、规划、验证与差异审查
   - GitHub：https://github.com/lili-luo/aicoding-cookbook/blob/main/skills/codex/AGENT-v2.md
-  - 配套提示词：[AGENT-v2 规则提示词](提示词清单.md#agent-v2-规则提示词)
+  - 配套提示词：[重构 Codex Agent 全局规则](提示词清单.md#重构-codex-agent-全局规则)
 
 ## 维护说明
 
