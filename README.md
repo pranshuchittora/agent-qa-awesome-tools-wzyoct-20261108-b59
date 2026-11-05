@@ -51,6 +51,8 @@
   - 蓝奏盘：https://oyksoft.lanzouu.com/b009i45tzc （密码：95ag）
 - **HiBit Uninstaller** — 免费软件卸载工具，支持强制卸载、残留清理、注册表修复、启动项管理，有安装版和便携版
   - 官网：https://www.hibitsoft.ir/Uninstaller.html
+- **Windows Cleaner** — Windows 磁盘清理工具，帮助清理系统盘空间；采用 CC BY-NC-SA 4.0 许可证，限制商业使用
+  - GitHub：https://github.com/darkmatter2048/WindowsCleaner
 - **Ventoy** — 开源多系统启动 U 盘工具，拷入 ISO 即可启动，支持 BIOS/UEFI/Secure Boot
   - 官网：https://www.ventoy.net/cn/
 - **ITELLOYOU（我告诉你）** — 原版 Windows/Office 镜像下载入口
@@ -131,6 +133,9 @@
 
 ## 文档处理
 
+- **Xiaomi-OCR-0** — 面向文档解析和 OCR 理解的视觉语言模型，支持文档解析、OCR 问答和关键信息提取；模型采用 Apache-2.0 许可证
+  - 项目页面：https://huggingface.co/spaces/xiaomi-research/Xiaomi-OCR-0
+  - 模型页面：https://huggingface.co/xiaomi-research/Xiaomi-OCR-0
 - **Marker** — 开源文档转换工具，可将 PDF 等格式转换为 Markdown、JSON、HTML 等，支持表格、公式、图片提取和 OCR；代码采用 Apache-2.0 许可证，模型权重另有许可条件
   - GitHub：https://github.com/datalab-to/marker
 

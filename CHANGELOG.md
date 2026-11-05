@@ -1,5 +1,9 @@
 # 更新日志
 
+## 2026-11-05：收录 Windows Cleaner 和 Xiaomi-OCR-0
+
+- 在“系统工具”收录 Windows Cleaner，在“文档处理”收录 Xiaomi-OCR-0，记录用途、链接和许可证。
+
 ## 2026-11-04：替换提示词清单
 
 - 清空原有提示词，新增 Taste Skill 与 Impeccable Web 界面优化提示词及重构 Codex Agent 全局规则提示词；同步更新 README 配套链接。
