@@ -169,6 +169,9 @@
 - **AGENT-v2（Codex Agent 规则）** — 精简有效的 Codex Agent 协作规则示例，涵盖沟通、根因修复、代码质量、结构性问题、规划、验证与差异审查
   - GitHub：https://github.com/lili-luo/aicoding-cookbook/blob/main/skills/codex/AGENT-v2.md
   - 配套提示词：[重构 Codex Agent 全局规则](提示词清单.md#重构-codex-agent-全局规则)
+- **agent-qa** — 开源 Web、Android 和 iOS 自然语言测试工具，支持 CLI/MCP、memidex 记忆、自我改进与可复查运行证据；采用 FSL-1.1-ALv2（含竞争性使用限制），模型和基础设施费用另计
+  - 官网：https://vostride.com
+  - GitHub：https://github.com/vostride/agent-qa
 
 ## 维护说明
 

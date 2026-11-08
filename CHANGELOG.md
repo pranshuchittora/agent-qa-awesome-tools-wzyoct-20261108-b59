@@ -1,5 +1,9 @@
 # 更新日志
 
+## 2026-11-08：收录 agent-qa
+
+- 在“AI 工具”收录 agent-qa，记录 Web/Android/iOS 自然语言测试、memidex 记忆、自我改进、运行证据、官网与许可证。
+
 ## 2026-11-05：收录 Windows Cleaner 和 Xiaomi-OCR-0
 
 - 在“系统工具”收录 Windows Cleaner，在“文档处理”收录 Xiaomi-OCR-0，记录用途、链接和许可证。
